@@ -6,7 +6,7 @@ Investigating **resource-constrained intelligence**, **explainable machine learn
 [![Website](https://img.shields.io/badge/chinwerita.page-0F172A?style=flat-square&logo=googlechrome&logoColor=white)](https://chinwerita.page)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ejiabor-rita-c2804)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/chinwerita)
-[![CV](https://img.shields.io/badge/Résumé_/_CV-4F46E5?style=flat-square&logo=googledocs&logoColor=white)](https://res.cloudinary.com/dizg4pm31/image/upload/v1789222638/ejiaborrita/xb0ndr2rvn3dcd4poaww.pdf)
+[![CV](https://img.shields.io/badge/Résumé_/_CV-4F46E5?style=flat-square&logo=googledocs&logoColor=white)](https://res.cloudinary.com/dizg4pm31/image/upload/v1793192391/ejiaborrita/qulxobygfyeyaa91b2a0.pdf?_a=BAMAAAhM0)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chinweogorita008@gmail.com)
 
 ---
