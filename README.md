@@ -11,7 +11,7 @@ Investigating **resource-constrained intelligence**, **explainable machine learn
 
 ---
 
-###Research Interests
+### Research Interests
 
 - **Resource-Constrained Learning:** Designing lightweight, efficient models tailored for low-compute, low-power, and bandwidth-limited environments.
 - **Explainable AI & Representation Design:** Feature attribution (SHAP), auditable high-dimensional latent representations, and vernacular explainability.
@@ -48,7 +48,7 @@ Investigating **resource-constrained intelligence**, **explainable machine learn
 
 ---
 
-### 📑 Publications & Abstracts
+### Publications & Abstracts
 
 - **Eze J., Mbanwusi F., Oparaku C., Uzoma B., Ejiabor R., Nzeribe M.** (2026).  
   *Integrating Neuroscience and Basic Neurological Life Support into General Studies in Nigerian Federal Universities: Students’ Knowledge, Perspectives, and Attitudes.*  
