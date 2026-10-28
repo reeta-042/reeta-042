@@ -11,7 +11,7 @@ Investigating **resource-constrained intelligence**, **explainable machine learn
 
 ---
 
-### 🔬 Research Interests
+###Research Interests
 
 - **Resource-Constrained Learning:** Designing lightweight, efficient models tailored for low-compute, low-power, and bandwidth-limited environments.
 - **Explainable AI & Representation Design:** Feature attribution (SHAP), auditable high-dimensional latent representations, and vernacular explainability.
@@ -20,7 +20,7 @@ Investigating **resource-constrained intelligence**, **explainable machine learn
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 - **Languages:** `Python` `C++` `SQL` `LaTeX` `Bash`
 - **Machine Learning & XAI:** `PyTorch` `Scikit-learn` `XGBoost` `LightGBM` `SHAP` `PINNs` `NumPy` `Pandas`
@@ -29,7 +29,7 @@ Investigating **resource-constrained intelligence**, **explainable machine learn
 
 ---
 
-### 🚀 Selected Projects & Research
+### Selected Projects & Research
 
 - **[Requence (LaaS)](https://chinwerita.page/projects/requence-genomic-amr-prediction)** — Pathogen AMR surveillance pipeline extracting k-mers, SNPs, and resistance genes across 300+ *Salmonella* & *E. coli* WGS assemblies; GBDTs + SHAP for sub-hour risk reports.  
   `[Python, Gradient Boosting, SHAP, Snippy, FastAPI]` • [[Write-up](https://chinwerita.page/blog/teaching-machines-to-read-pathogen-genomes)] • [[Project](https://chinwerita.page/projects/requence-genomic-amr-prediction)]
@@ -56,18 +56,18 @@ Investigating **resource-constrained intelligence**, **explainable machine learn
 
 ---
 
-### 🏆 Honors & Highlights
+### Honors & Highlights
 
-- 🥇 **1st Place** — Ogun State Mathematics Olympiad (2023)
-- 🏅 **8th Place (Regional)** — National Biology Olympiad (2023)
-- 🏆 **4th Place** — GDG UNN "Build with Gemma" Hackathon (*C.A.R.S* multimodal crisis triage copilot)
-- 🌟 **Regional Semifinalist** — Technovation Girls Challenge (2024)
-- 📜 **Precision Medicine & Cloud Computing** — Stanford Medicine (Stanford Data Ocean)
-- 🎯 **Top 1.4% (Rank 14 / 1,000+)** — CareerEx Data Science Cohort 3
+- **1st Place** — Ogun State Mathematics Olympiad (2023)
+- **8th Place (Regional)** — National Biology Olympiad (2023)
+- **4th Place** — GDG UNN "Build with Gemma" Hackathon (*C.A.R.S* multimodal crisis triage copilot)
+- **Regional Semifinalist** — Technovation Girls Challenge (2024)
+- **Precision Medicine & Cloud Computing** — Stanford Medicine (Stanford Data Ocean)
+- **Top 1.4% (Rank 14 / 1,000+)** — CareerEx Data Science Cohort 3
 
 ---
 
-### 🤝 Community & Mentorship
+### Community & Mentorship
 
 - **Workshop Facilitator** @ Women Techmakers Nsukka (IWD 2026) — Model training & deployment workshop for 20+ students ([[Repository](https://github.com/reeta-042/women_techmakers_ai_playgroud)]).
 - **Technical Judge** @ NACOS UNN "Build with Replit" — Evaluated 40+ engineering projects.
