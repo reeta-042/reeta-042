@@ -1,6 +1,6 @@
 ### Hi, I'm Chinweogo Rita 👋
 
-**Computer Science Undergraduate & AI Researcher** @ University of Nigeria, Nsukka (`CGPA: 4.6 / 5.0`)  
+**Computer Science Undergraduate & AI Researcher** @ University of Nigeria, Nsukka (`CGPA: 4.7 / 5.0`)  
 Investigating **resource-constrained intelligence**, **explainable machine learning (XAI)**, and **computational biology**.
 
 [![Website](https://img.shields.io/badge/chinwerita.page-0F172A?style=flat-square&logo=googlechrome&logoColor=white)](https://chinwerita.page)
